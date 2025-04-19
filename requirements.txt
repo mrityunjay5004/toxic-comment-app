@@ -3,8 +3,6 @@ scikit-learn
 pandas
 nltk
 joblib
-
-# Compatible versions
 spacy==3.6.1
 thinc==8.1.12
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.6.0/en_core_web_sm-3.6.0-py3-none-any.whl
